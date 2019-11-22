@@ -22,14 +22,14 @@
 # definition file).
 #
 
-# Inherit from fxtec msm8998-common
--include device/fxtec/msm8998-common/BoardConfigCommon.mk
+# Inherit from msm8998-common
+-include device/idealte/msm8998-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/fxtec/pro1
 
 # Assertions
 TARGET_BOARD_INFO_FILE ?= $(DEVICE_PATH)/board-info.txt
-TARGET_OTA_ASSERT_DEVICE := t5,FxTecPro1
+TARGET_OTA_ASSERT_DEVICE := FxTecPro1
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include

@@ -1,0 +1,1 @@
+-include device/idealte/msm8998-common/AndroidBoardCommon.mk

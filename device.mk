@@ -22,7 +22,7 @@
 # definition file).
 #
 
-$(call inherit-product, vendor/fxtec/pro1/pro1-vendor.mk)
+$(call inherit-product, vendor/idealte/t5/t5-vendor.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
@@ -48,5 +48,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl
 
-# Inherit from fxtec msm8998-common
-$(call inherit-product, device/fxtec/msm8998-common/common.mk)
+# Inherit from msm8998-common
+$(call inherit-product, device/idealte/msm8998-common/common.mk)
