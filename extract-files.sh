@@ -20,7 +20,8 @@ set -e
 
 export DEVICE=pro1
 export DEVICE_COMMON=msm8998-common
-export VENDOR=fxtec
+export DEVICE_VENDOR=fxtec
+export VENDOR=idealte
 
 export DEVICE_BRINGUP_YEAR=2019
 
