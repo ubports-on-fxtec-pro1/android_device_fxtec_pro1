@@ -34,5 +34,8 @@ TARGET_OTA_ASSERT_DEVICE := QX1000
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 
+# Recovery
+TARGET_RECOVERY_UI_MARGIN_STATUSBAR := 48
+
 # inherit from the proprietary version
 -include vendor/fxtec/pro1/BoardConfigVendor.mk
