@@ -42,8 +42,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/mixer_paths_tasha.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_tasha.xml
 
 # FM Radio
-PRODUCT_PACKAGES += \
-    FMRadio
+#PRODUCT_PACKAGES += \
+#    FMRadio
 
 # Keylayouts
 PRODUCT_COPY_FILES += \
