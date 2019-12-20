@@ -26,7 +26,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 PRODUCT_NAME := lineage_pro1
 PRODUCT_DEVICE := pro1
-PRODUCT_MANUFACTURER := FxTec
+PRODUCT_MANUFACTURER := Fxtec
 PRODUCT_BRAND := Fxtec
 PRODUCT_MODEL := QX1000
 
