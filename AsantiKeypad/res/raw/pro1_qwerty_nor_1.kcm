@@ -8,8 +8,9 @@ map key 111 PLUS
 # orig EQUALS
 map key 13 FORWARD_DEL
 
+# XXXX This is unneeded as we changed the mapping for ESC in the kernel
 # orig BACK
-map key 158 ESCAPE
+#map key 158 ESCAPE
 
 # ROW 1
 
