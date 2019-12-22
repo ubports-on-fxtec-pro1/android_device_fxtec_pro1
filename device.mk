@@ -48,5 +48,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl
 
+# Alternate optional key maps
+PRODUCT_PACKAGES += \
+    AsantiKeypad
+
 # Inherit from msm8998-common
 $(call inherit-product, device/idealte/msm8998-common/common.mk)
