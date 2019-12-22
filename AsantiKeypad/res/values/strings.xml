@@ -15,38 +15,34 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Asanti keypad</string>
-    <string name="keyboard_layouts_label">Photon Q keypad</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_qwerty_label">Asanti v1 western/German QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_qwertz_label">Asanti v1 western/German QWERTZ</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_czech_qwerty_label">Asanti v1 Czech QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_czech_qwertz_label">Asanti v1 Czech QWERTZ</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_cro_qwerty_label">Asanti v1 Croatian QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_cro_qwertz_label">Asanti v1 Croatian QWERTZ</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_polish_qwerty_label">Asanti v1 Polish QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v1' -->
-    <string name="keypad_asanti_polish_qwertz_label">Asanti v1 Polish QWERTZ</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_qwerty_label">Asanti v2 western/German QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_qwertz_label">Asanti v2 western/German QWERTZ</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_czech_qwerty_label">Asanti v2 Czech QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_czech_qwertz_label">Asanti v2 Czech QWERTZ</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_cro_qwerty_label">Asanti v2 Croatian QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_cro_qwertz_label">Asanti v2 Croatian QWERTZ</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_polish_qwerty_label">Asanti v2 Polish QWERTY</string>
-    <!-- WARNING: The translation MUST always start with 'Asanti v2' -->
-    <string name="keypad_asanti_capsshift_polish_qwertz_label">Asanti v2 Polish QWERTZ</string>
+    <string name="app_name">AsantiKeypad</string>
+    <string name="keyboard_layouts_label">Pro1 keypad</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwerty_cze_1">FinQwerty F(x)tec Pro1, Czech for physical QWERTY</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwerty_dan_1">FinQwerty F(x)tec Pro1, Danish for physical QWERTY</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwerty_fin_1">FinQwerty F(x)tec Pro1, Finnish for physical QWERTY</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwerty_nor_1">FinQwerty F(x)tec Pro1, Norwegian for physical QWERTY</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwerty_swe_1">FinQwerty F(x)tec Pro1, Swedish for physical QWERTY</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwerty_usa_1">FinQwerty F(x)tec Pro1, U.S. for physical QWERTY</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwerty_usaintl_1">FinQwerty F(x)tec Pro1, U.S. international for physical QWERTY</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwertz_dan_1">FinQwerty F(x)tec Pro1, Danish for physical QWERTZ</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwertz_fin_1">FinQwerty F(x)tec Pro1, Finnish for physical QWERTZ</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwertz_ger_1">FinQwerty F(x)tec Pro1, German for physical QWERTZ</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwertz_nor_1">FinQwerty F(x)tec Pro1, Norwegian for physical QWERTZ</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwertz_swe_1">FinQwerty F(x)tec Pro1, Swedish for physical QWERTZ</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwertz_usa_1">FinQwerty F(x)tec Pro1, U.S. for physical QWERTZ</string>
+    <!-- WARNING: The translation MUST always start with 'FinQwerty' -->
+    <string name="pro1_qwertz_usaintl_1">FinQwerty F(x)tec Pro1, U.S. international for physical QWERTZ</string>
 </resources>
